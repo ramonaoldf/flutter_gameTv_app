@@ -12,14 +12,14 @@ A new Flutter project.
 * Recommended section of tournament haviing infinite scroll using pagination
 * Provider state management architeture
 
-## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_gameTv_app/total?color=green)
-<a href="https://github.com/TheAlphamerc/flutter_gameTv_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/ramonaoldf/flutter_gameTv_app/total?color=green)
+<a href="https://github.com/ramonaoldf/flutter_gameTv_app/releases/download/v1.0.0/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## Screenshots
 
 Login                |  Home page               | sidebar                
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/TheAlphamerc/flutter_gameTv_app/blob/main/screenshots/screenshot_1.jpg?raw=true) | ![](https://github.com/TheAlphamerc/flutter_gameTv_app/blob/main/screenshots/screenshot_2.jpg?raw=true)| ![](https://github.com/TheAlphamerc/flutter_gameTv_app//blob/main/screenshots/screenshot_3.jpg?raw=true)
+![](https://github.com/ramonaoldf/flutter_gameTv_app/blob/main/screenshots/screenshot_1.jpg?raw=true) | ![](https://github.com/ramonaoldf/flutter_gameTv_app/blob/main/screenshots/screenshot_2.jpg?raw=true)| ![](https://github.com/ramonaoldf/flutter_gameTv_app//blob/main/screenshots/screenshot_3.jpg?raw=true)
 
 ## Getting Started
 
